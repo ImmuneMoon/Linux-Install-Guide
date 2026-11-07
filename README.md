@@ -19,9 +19,10 @@ Installing Linux can permanently erase your drive, and installing alongside Wind
 ## 🚀 How to Use
 Download the PDF above, or read on below. Start with **Before You Start** and work through the steps in order. You can stop after **Step 5** without having changed anything on your PC.
 
-This guide works alongside two others:
+This guide works alongside:
 * [Windows 10 Community Support Guide](https://github.com/ImmuneMoon/Windows-10-Community-Support-Guide) - Your options if you're leaving, or staying on, Windows 10.
 * [Windows Install Guide](https://github.com/ImmuneMoon/Windows-Install-Guide) - Making a Windows USB drive, if you'd rather stay on Windows.
+* [IT Support Careers and Certifications](https://github.com/ImmuneMoon/IT-Support-Careers-and-Certifications#112-practice-with-this-sites-guides) - Installing Linux is good hands-on practice for CompTIA A+ and help desk work.
 
 ---
 
