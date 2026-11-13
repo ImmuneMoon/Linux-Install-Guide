@@ -28,7 +28,7 @@ This guide works alongside:
 
 <!-- guide:start -->
 
-*Versions and support dates were checked in October 2026. They change, so confirm them on each project's site.*
+*Versions and support dates change, so confirm them on each project's site.*
 
 ## The Problem
 You want to give a PC a new life with Linux, maybe because it can't run Windows 11 or because you're done with Windows. You've never installed Linux, and you don't want to lose your files or end up with a PC that won't start.
